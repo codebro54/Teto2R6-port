@@ -5,7 +5,7 @@ I decide to port teto 2R6 to ViSingers.
 ## General information
 - Gender: Chimera
 - Height: 159.5 m
-- Weight: 222g
+- Weight: 47173.6g
 - Age: 31
 - Chimera age: 15
 
