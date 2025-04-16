@@ -1,4 +1,4 @@
-# kasane teto
+# kasane teto/重音テト
 kasane teto is a synthV/utau voicebank made on Apr 1 of 2008 to troll vocaloid fans but she did not get a voice until later in 2008 when she go an utau voicebank now known a teto 2R6, and to celebrate teto geting a voicepeak voicebank
 I decide to port teto 2R6 to ViSingers.
 
