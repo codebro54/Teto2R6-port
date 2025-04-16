@@ -12,4 +12,4 @@ I decide to port teto 2R6 to ViSingers.
 ## 重音テトViSingers ポート
 a port of kasane teto 2R6 to ViSingers
 - Type: UTAU
-- Languages: jp
+- Languages: ja
